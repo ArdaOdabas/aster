@@ -1,0 +1,6 @@
+*.dmg
+*.class
+!imagej-src/plugins/MacAdapter*.class
+build/
+.DS_Store
+*.icloud
